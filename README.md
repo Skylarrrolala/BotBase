@@ -21,4 +21,4 @@ BotBase is a modular AI chatbot template built for small businesses, startups, a
 
 ---
 
-Want to use this for your business? Hit me up at [youremail@example.com]
+Want to use this for your business? Hit me up at [skylar.thedev@gmail.com]
